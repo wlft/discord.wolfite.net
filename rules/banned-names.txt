@@ -15,3 +15,9 @@ EXCLUDED:
 - Invisible characters, small characters, or characters make it difficulty to access your profile.
 - Names that intend to impersonate anyone without permission
 - Names that spread mis-information, are intended to defame someone, or similiar
+
+WHAT IF YOUR NICKNAME/DISPLAY NAME IS EXLCUDED?
+You will be banned for 1d-7d+ based on the severity of the infracture, please change your display name before rejoining the server.
+
+APPEAL: https://discord.wolfite.net/appeal
+FEEDBACK: https://discord.wolfite.net/feedback
